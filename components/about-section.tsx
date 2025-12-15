@@ -84,13 +84,13 @@ export default function AboutSection() {
           >
             <div className="aspect-[4/5] rounded-2xl overflow-hidden">
               <img
-                src="/professional-indian-male-educator-in-formal-attire.jpg"
+                src="/Shubham-Ambre.jpg"
                 alt="Shubham Ambre - Founder"
                 className="w-full h-full object-cover"
               />
             </div>
             <div className="absolute -bottom-6 -right-6 bg-primary text-primary-foreground p-6 rounded-2xl shadow-xl">
-              <p className="text-4xl font-bold">10+</p>
+              <p className="text-4xl font-bold">5+</p>
               <p className="text-sm opacity-90">Years Experience</p>
             </div>
           </motion.div>

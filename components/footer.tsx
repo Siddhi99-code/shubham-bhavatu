@@ -119,7 +119,7 @@ export default function Footer() {
                   />
                 </svg>
                 <a href="tel:+919876543210" className="text-card/70 hover:text-card text-sm transition-colors">
-                  +91 98765 43210
+                  +91 9325741163
                 </a>
               </li>
               <li className="flex items-center gap-3">
@@ -140,7 +140,7 @@ export default function Footer() {
                   href="mailto:info@shubhambhavatuclasses.com"
                   className="text-card/70 hover:text-card text-sm transition-colors break-all"
                 >
-                  info@shubhambhavatuclasses.com
+                  siddhiambre299@gmail.com
                 </a>
               </li>
               <li className="flex items-start gap-3">

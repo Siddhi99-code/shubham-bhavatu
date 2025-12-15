@@ -22,7 +22,7 @@ export default function HeroSection() {
             className="inline-flex items-center gap-2 bg-accent/20 backdrop-blur-sm px-4 py-2 rounded-full mb-6"
           >
             <span className="w-2 h-2 bg-accent rounded-full animate-pulse" />
-            <span className="text-sm text-card font-medium">Admissions Open for 2024-25</span>
+            <span className="text-sm text-card font-medium">Admissions Open for 2025-26</span>
           </motion.div>
 
           <motion.h1
@@ -80,7 +80,7 @@ export default function HeroSection() {
             </div>
             <div className="w-px h-12 bg-card/30" />
             <div>
-              <p className="text-3xl md:text-4xl font-bold text-card">15+</p>
+              <p className="text-3xl md:text-4xl font-bold text-card">4</p>
               <p className="text-sm text-card/70">Teachers</p>
             </div>
             <div className="w-px h-12 bg-card/30" />
